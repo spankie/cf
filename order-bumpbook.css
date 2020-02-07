@@ -1,0 +1,192 @@
+#tmp_order2step-84091,
+#section-778610000,
+#section--57763 {
+  -webkit-box-shadow: 4px 2px 32px 0px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 4px 2px 32px 0px rgba(0, 0, 0, 0.1);
+  box-shadow: 4px 2px 32px 0px rgba(0, 0, 0, 0.1);
+  position: relative !important;
+  z-index: 99 !important;
+}
+
+.elScreenshot_right .elScreenshot_text_padding {
+  padding-left: 20px !important;
+}
+
+.order2Step-step.order2StepActive {
+  padding: 30px 15px;
+  background-color: #5686cc;
+  padding-bottom: 20px;
+  margin-top: -15px;
+}
+.order2Step-step {
+  background-color: #2f5a99;
+  color: white;
+  opacity: 1;
+  border-radius: 5px 5px 0 0;
+}
+
+.order2StepNumber {
+  background-color: #3f6cae;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  border-radius: 40px;
+  margin-top: 8px;
+}
+
+.order2StepProgress {
+  background-color: #2f5a99;
+  height: 10px;
+}
+
+.o2step_wrapper {
+  background-color: #4572b6;
+  border-radius: 0 0 5px 5px;
+  color: white;
+}
+
+.elS1Shipping {
+  background-color: #4571b6;
+  color: white;
+}
+.order2Step-step.order2StepActive .order2StepTitle {
+  color: white;
+}
+
+.order2Step25:before,
+.order2Step75:before {
+  display: none !important;
+}
+
+.order2StepHeader {
+  border-bottom: none;
+  background-image: none;
+  background-color: #2f5999;
+  border-radius: 5px;
+}
+
+.elOrder2Step {
+  background-color: none !important;
+  border: none !important;
+  border-radius: 5px;
+}
+
+.order2ButtonSubText,
+.order2ButtonSubText2 {
+  color: white;
+}
+
+#section-6309810000 {
+  overflow: visible;
+}
+
+#tmp_image-88817 {
+  margin-bottom: 15px;
+}
+
+.orderFormBump {
+  border: 2px solid #9fddee !important;
+  padding: 10px !important;
+  background: rgb(224, 237, 254) !important;
+}
+
+.orderFormBump .sectioncontent div:first-child label:nth-child(2) {
+  background: none !important;
+  padding-left: 0px !important;
+}
+
+.orderFormBump .sectioncontent div:first-child {
+  background: none !important;
+}
+
+p[data-cf-id="order-bump"] {
+  color: black;
+}
+
+img[data-cf-note="flashing arrow"] {
+  display: none;
+}
+
+[data-cf-id="bump-headline"] {
+  font-size: 13px;
+  color: rgb(190, 26, 36) !important;
+}
+.elTextblock {
+  color: black;
+  text-align: left;
+  font-size: 12px;
+}
+
+.clearfix.elOrderProductOptinProducts[data-cf-product-template="true"]:nth-child(3):hover {
+  box-shadow: 0 0 10px rgb(137, 212, 255);
+}
+
+.clearfix.elOrderProductOptinProducts[data-cf-product-template="true"]:nth-child(3) {
+  border: 1px solid #000000;
+  padding: 0;
+  color: black;
+  margin: 0 -28px 0.5em;
+  font-weight: bold;
+  background-color: #dfeaff;
+  border: 1px solid #c1d4f9;
+}
+
+.clearfix.elOrderProductOptinProducts[data-cf-product-template="true"]:nth-child(3)
+  .pull-left.elOrderProductOptinProductName {
+  padding: 10px 30px;
+}
+
+.clearfix.elOrderProductOptinProducts[data-cf-product-template="true"]:nth-child(3):after {
+  background-image: url(//images.clickfunnels.com/ab/35fc33aabf4d64835df1b4f0d2033a/newdjiosda.png);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 250px;
+
+  background-color: #fff;
+}
+
+.elCreditCardForm.clearfix {
+  background-color: #f6f6f6 !important;
+  color: #989898;
+}
+.order2stepbutton,
+.order2stepbuttonOrder {
+  font-family: "Oswald", Helvetica, sans-serif !important;
+}
+.order2StepHeaderText {
+  float: none !important;
+}
+
+#tmp_image-39524 {
+  padding: 0 7em;
+  display: none;
+}
+
+.order2StepSubTitle {
+  font-size: 14px;
+}
+
+.fa.fa-arrow-left {
+  color: #4572b6;
+}
+
+/*new*/
+
+@media only screen and (max-width: 600px) {
+  .order2StepTitle {
+    font-size: 14px !important;
+  }
+  .order2StepSubTitle {
+    font-size: 11px;
+  }
+}
+.order2StepTitle {
+  font-size: 16px;
+}
+
+/*padding*/
+
+#headline-83195 {
+  padding: 5px;
+}
